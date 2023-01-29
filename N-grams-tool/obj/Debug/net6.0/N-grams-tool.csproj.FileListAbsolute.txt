@@ -1,0 +1,15 @@
+C:\Users\olive\Documents\GitHub\N-grams-tool\N-grams-tool\bin\Debug\net6.0\N-grams-tool.exe
+C:\Users\olive\Documents\GitHub\N-grams-tool\N-grams-tool\bin\Debug\net6.0\N-grams-tool.deps.json
+C:\Users\olive\Documents\GitHub\N-grams-tool\N-grams-tool\bin\Debug\net6.0\N-grams-tool.runtimeconfig.json
+C:\Users\olive\Documents\GitHub\N-grams-tool\N-grams-tool\bin\Debug\net6.0\N-grams-tool.dll
+C:\Users\olive\Documents\GitHub\N-grams-tool\N-grams-tool\bin\Debug\net6.0\N-grams-tool.pdb
+C:\Users\olive\Documents\GitHub\N-grams-tool\N-grams-tool\obj\Debug\net6.0\N-grams-tool.csproj.AssemblyReference.cache
+C:\Users\olive\Documents\GitHub\N-grams-tool\N-grams-tool\obj\Debug\net6.0\N-grams-tool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\Documents\GitHub\N-grams-tool\N-grams-tool\obj\Debug\net6.0\N-grams-tool.AssemblyInfoInputs.cache
+C:\Users\olive\Documents\GitHub\N-grams-tool\N-grams-tool\obj\Debug\net6.0\N-grams-tool.AssemblyInfo.cs
+C:\Users\olive\Documents\GitHub\N-grams-tool\N-grams-tool\obj\Debug\net6.0\N-grams-tool.csproj.CoreCompileInputs.cache
+C:\Users\olive\Documents\GitHub\N-grams-tool\N-grams-tool\obj\Debug\net6.0\N-grams-tool.dll
+C:\Users\olive\Documents\GitHub\N-grams-tool\N-grams-tool\obj\Debug\net6.0\refint\N-grams-tool.dll
+C:\Users\olive\Documents\GitHub\N-grams-tool\N-grams-tool\obj\Debug\net6.0\N-grams-tool.pdb
+C:\Users\olive\Documents\GitHub\N-grams-tool\N-grams-tool\obj\Debug\net6.0\N-grams-tool.genruntimeconfig.cache
+C:\Users\olive\Documents\GitHub\N-grams-tool\N-grams-tool\obj\Debug\net6.0\ref\N-grams-tool.dll
